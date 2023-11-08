@@ -8,7 +8,7 @@ Developed using Electron, video processing uses the ffmpeg plugin.
 # Releases
 Currently, only the Windows version is packaged. If you need Mac and Linux versions, please package them yourself.
 
-https://github.com/chwrywj/VideoCutMerge/releases
+https://github.com/chwrywj/AudioCutMerge/releases
 
 ![](https://github.com/chwrywj/AudioCutMerge/blob/main/screenshot1.png)
 ![](https://github.com/chwrywj/AudioCutMerge/blob/main/screenshot2.png)
