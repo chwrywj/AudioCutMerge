@@ -34,6 +34,7 @@
 	"sourceAudioBitrate": "Taxa de Bits de Áudio",
 	"sourceFrameRate": "Taxa de quadros",
 	"sourceResolution": "Resolução áudio",
+	"operate": "operação",
 	"moveUp": "Mover para cima",
 	"moveDown": "Mover para Baixo",
 	"delete": "apagar",

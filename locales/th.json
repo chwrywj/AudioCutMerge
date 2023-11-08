@@ -34,6 +34,7 @@
 	"sourceAudioBitrate": "อัตราบิตเสียง",
 	"sourceFrameRate": "อัตราเฟรม",
 	"sourceResolution": "ความละเอียดเสียง",
+	"operate": "การดำเนินงาน",
 	"moveUp": "เลื่อนขึ้น",
 	"moveDown": "เลื่อนลง",
 	"delete": "ลบ",

@@ -34,6 +34,7 @@
 	"sourceAudioBitrate": "Ljudbithastighet",
 	"sourceFrameRate": "Bildhastighet",
 	"sourceResolution": "Ljudlösning",
+	"operate": "drift",
 	"moveUp": "Flytta uppåt",
 	"moveDown": "Flytta ner",
 	"delete": "ta bort",

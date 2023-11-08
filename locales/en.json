@@ -2,7 +2,7 @@
 	"title": "Digital World: Audio Clipping and Merging",
   
 	"cut": "Cut audio",
-	"merge": "Merge audio",
+	"merge": "Merge Audio",
 	"addAudioTip1": "Currently only supports MP3 format audio",
 	"addAudioTip2": "If there are other formats of audio, please convert the format to MP3 first.",
 	"addAudioTip3": "Download audio conversion application",
@@ -34,6 +34,7 @@
 	"sourceAudioBitrate": "Audio Bitrate",
 	"sourceFrameRate": "Frame rate",
 	"sourceResolution": "Audio resolution",
+	"operate": "Operation",
 	"moveUp": "Move Up",
 	"moveDown": "Move Down",
 	"delete": "Delete",

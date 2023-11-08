@@ -34,6 +34,7 @@
 	"sourceAudioBitrate": "Tốc độ bit âm thanh",
 	"sourceFrameRate": "Tốc độ khung",
 	"sourceResolution": "Độ phân giải âm thanh",
+	"operate": "Hoạt động",
 	"moveUp": "Di chuyển lên",
 	"moveDown": "Di chuyển xuống",
 	"delete": "Xoá",
